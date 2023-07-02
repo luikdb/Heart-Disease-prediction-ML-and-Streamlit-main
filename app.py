@@ -75,4 +75,3 @@ prediction_proba = load_clf.predict_proba(df)
 
 st.subheader('Prediction')
 st.write(prediction)
-
